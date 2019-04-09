@@ -1,0 +1,4 @@
+Running: xsim.dir/Hamming_encoding_fixpt_tb_behav/xsimk -simmode gui -wdb Hamming_encoding_fixpt_tb_behav.wdb -simrunnum 0 -socket 34901
+Design successfully loaded
+Design Loading Memory Usage: 33160 KB (Peak: 33280 KB)
+Design Loading CPU Usage: 30 ms

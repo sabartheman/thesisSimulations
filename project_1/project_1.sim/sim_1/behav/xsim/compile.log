@@ -1,0 +1,232 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_encoding_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_encoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_encoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_encoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd" into library work
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd" into library work
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt_tb'
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd:51]
+ERROR: [VRFC 10-3782] unit 'rtl' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd:40]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'ldpcenc_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:28]
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+ERROR: [VRFC 10-3782] unit 'ldpcenc_fixpt' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd:30]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'call_custom_exp_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd:20]
+ERROR: [VRFC 10-3782] unit 'call_custom_exp_fixpt_tb_pkg' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd:22]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'call_custom_exp_fixpt_tb'
+ERROR: [VRFC 10-2987] 'call_custom_exp_fixpt' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb.vhd:51]
+ERROR: [VRFC 10-3782] unit 'rtl' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb.vhd:40]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'call_custom_exp_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'call_custom_exp_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'call_custom_exp_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'call_custom_exp_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/call_custom_exp_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+ERROR: [VRFC 10-3167] cannot convert type 'std_ulogic' to type 'std_logic_vector' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd:115]
+ERROR: [VRFC 10-3782] unit 'behavioral' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd:47]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+ERROR: [VRFC 10-3167] cannot convert type 'std_ulogic' to type 'std_logic_vector' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd:115]
+ERROR: [VRFC 10-3782] unit 'behavioral' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd:47]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'tbcenc_fixpt_tb_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd:34]
+INFO: [VRFC 10-3107] analyzing entity 'tbcenc_fixpt_tb'
+ERROR: [VRFC 10-3782] unit 'tbcenc_fixpt_tb' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd:36]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbcenc_fixpt_tb'
+ERROR: [VRFC 10-2987] 'tbcenc_fixpt' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd:54]
+ERROR: [VRFC 10-3782] unit 'rtl' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd:40]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_decoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/new/ldpc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpc_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbcenc_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbcenc_fixpt_tb'

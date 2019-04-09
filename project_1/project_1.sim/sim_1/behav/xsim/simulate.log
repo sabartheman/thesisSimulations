@@ -1,0 +1,4 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Note: **************TEST COMPLETED (PASSED)**************
+Time: 40 ns  Iteration: 1  Process: /tbcenc_fixpt_tb/completed_msg  File: /home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd

@@ -1,0 +1,7 @@
+Running: xsim.dir/ldpcdec_fixpt_tb_behav/xsimk -simmode gui -wdb ldpcdec_fixpt_tb_behav.wdb -simrunnum 0 -socket 36397
+Design successfully loaded
+Design Loading Memory Usage: 34068 KB (Peak: 34076 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 131172 KB (Peak: 181340 KB)
+Simulation CPU Usage: 350 ms

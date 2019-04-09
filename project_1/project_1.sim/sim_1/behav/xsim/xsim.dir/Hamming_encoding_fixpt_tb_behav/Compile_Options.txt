@@ -1,0 +1,1 @@
+-wto "2fa978aba957410a83e2dc745b075b77" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "Hamming_encoding_fixpt_tb_behav" "xil_defaultlib.Hamming_encoding_fixpt_tb" -log "elaborate.log" 
