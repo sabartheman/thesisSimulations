@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proj/const.vhd" \
+"../../../../proj/enc.vhd" \
+"../../../../proj/dec.vhd" \
+"../../../../proj/sim.vhd" \
+"../../../../autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" \
+
+# Do not sort compile order
+nosort

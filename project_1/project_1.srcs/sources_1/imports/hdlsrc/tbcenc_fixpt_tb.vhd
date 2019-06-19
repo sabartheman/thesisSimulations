@@ -53,6 +53,13 @@ ARCHITECTURE rtl OF tbcenc_fixpt_tb IS
   FOR ALL : tbcenc_fixpt
     USE ENTITY work.tbcenc_fixpt(rtl);
 
+
+    attribute dont_touch : string;
+    
+    attribute dont_touch of tbcenc_fixpt :component is "true";
+
+
+
   -- Signals
   SIGNAL clk                              : std_logic;
   SIGNAL reset                            : std_logic;

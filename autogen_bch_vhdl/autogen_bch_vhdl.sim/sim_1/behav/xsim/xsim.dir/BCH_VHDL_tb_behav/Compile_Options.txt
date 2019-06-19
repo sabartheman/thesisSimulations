@@ -1,0 +1,1 @@
+-wto "b4e8bcf21e3a428d98c87f6ce03e1f2e" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "BCH_VHDL_tb_behav" "xil_defaultlib.BCH_VHDL_tb" -log "elaborate.log" 

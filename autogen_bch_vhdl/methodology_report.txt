@@ -1,0 +1,46 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (lin64) Build 2405991 Thu Dec  6 23:36:41 MST 2018
+| Date         : Tue Apr 30 17:05:30 2019
+| Host         : Dbrick running 64-bit Antergos Linux
+| Command      : report_methodology -name ultrafast_methodology_2 -file /home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/methodology_report.txt -rpx /home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/ultrafast_methodology_1.rpx -checks {XDCH-2 XDCH-1 XDCC-8 XDCC-7 XDCC-6 XDCC-5 XDCC-4 XDCC-3 XDCC-2 XDCC-1 XDCB-5 XDCB-4 XDCB-3 XDCB-2 XDCB-1 CLKC-54 CLKC-53 CLKC-9 CLKC-5 CLKC-38 CLKC-37 CLKC-36 CLKC-35 CLKC-4 CLKC-18 CLKC-3 CLKC-2 CLKC-1 HPDR-1 RRRS-1 RROR-1 ROAS-1 RMOR-1 RMIR-1 RFTL-1 RFRC-1 RFRA-1 RFFI-1 RFFH-1 RFCF-1 RCCL-1 RCBG-1 RAMP-1 RAMF-1 RAMD-1 RAKN-1}
+| Design       : BCH_VHDL_tb
+| Device       : xc7a200tfbg676-2
+| Speed File   : -2
+| Design State : Synthesized
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: rtl-elabBCH_VHDL_tb
+          Floorplan: rtl_1
+      Design limits: <entire design considered>
+
+            Checks: CLKC-1 CLKC-2 CLKC-3 CLKC-4 CLKC-5 CLKC-9 CLKC-18 CLKC-35 
+CLKC-36 CLKC-37 CLKC-38 CLKC-53 CLKC-54 HPDR-1 RAKN-1 RAMD-1 RAMF-1 RAMP-1 
+RCBG-1 RCCL-1 RFCF-1 RFFH-1 RFFI-1 RFRA-1 RFRC-1 RFTL-1 RMIR-1 RMOR-1 ROAS-1 
+RROR-1 RRRS-1 XDCB-1 XDCB-2 XDCB-3 XDCB-4 XDCB-5 XDCC-1 XDCC-2 XDCC-3 XDCC-4 
+XDCC-5 XDCC-6 XDCC-7 XDCC-8 XDCH-1 XDCH-2
+             Max violations: <unlimited>
+             Violations found: 1
++--------+----------+-----------------------------------+------------+
+| Rule   | Severity | Description                       | Violations |
++--------+----------+-----------------------------------+------------+
+| RCCL-1 | Advisory | Clock signal has logic on its net | 1          |
++--------+----------+-----------------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+RCCL-1#1 Advisory
+Clock signal has logic on its net  
+Clock signal 'BCH_PROCESS/comB/clk' has logic on its net. Consider using the clock gating option, or modify the code to ensure a clean clock net is used.
+Related violations: <none>
+
+

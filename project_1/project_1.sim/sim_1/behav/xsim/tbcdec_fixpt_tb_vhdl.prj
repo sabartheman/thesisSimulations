@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt_tb_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt_tb.vhd" \
+
+# Do not sort compile order
+nosort

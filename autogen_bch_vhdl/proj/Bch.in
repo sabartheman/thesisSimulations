@@ -1,0 +1,7 @@
+-- input constants to BCH code (n,k)
+m=4; -- number of n=2^m-1
+t=1; -- number of errors to be corrected
+-s0 -- generate sym.cmd & sym.cme
+-m1 -- optimization
+-o2 --option
+-i0

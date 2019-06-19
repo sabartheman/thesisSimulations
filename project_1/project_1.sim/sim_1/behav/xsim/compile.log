@@ -230,3 +230,29 @@ INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/p
 INFO: [VRFC 10-3107] analyzing entity 'tbcenc_fixpt'
 INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'tbcenc_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbcdec_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/tbcdec_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbcdec_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_encoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-2987] 'bf_fixpt_pkg' is not compiled in library 'xil_defaultlib' [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd:20]
+ERROR: [VRFC 10-3782] unit 'bf_fixpt_tb_pkg' ignored due to previous errors [/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd:22]
+INFO: [VRFC 10-3070] VHDL file '/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd' ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Hamming_encoding_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bf_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bf_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ldpcenc_fixpt_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/project_1/project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd" into library xil_defaultlib

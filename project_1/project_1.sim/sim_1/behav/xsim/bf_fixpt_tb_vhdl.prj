@@ -1,0 +1,17 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/Hamming_encoding_fixpt_tb.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/bf_fixpt_tb.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd" \
+"../../../../project_1.srcs/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd" \
+
+# Do not sort compile order
+nosort

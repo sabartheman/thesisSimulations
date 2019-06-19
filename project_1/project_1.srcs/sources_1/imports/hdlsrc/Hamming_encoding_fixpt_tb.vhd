@@ -47,6 +47,9 @@ ARCHITECTURE rtl OF Hamming_encoding_fixpt_tb IS
   FOR ALL : Hamming_encoding_fixpt
     USE ENTITY work.Hamming_encoding_fixpt(rtl);
 
+
+
+
   -- Signals
   SIGNAL clk                              : std_logic;
   SIGNAL reset                            : std_logic;

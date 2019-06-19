@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd,1556083839,vhdl,,,,bch_vhdl_tb,,,,,,,,
+/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/const.vhd,1555110773,vhdl,/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd;/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/dec.vhd;/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/enc.vhd;/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd,,,const,,,,,,,,
+/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/dec.vhd,1555110773,vhdl,/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd,,,dbuf;dch1;dcount;dec;dsyn1,,,,,,,,
+/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/enc.vhd,1555110773,vhdl,/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd,,,ecount;enc;ering,,,,,,,,
+/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd,1556083835,vhdl,,,,combuf;decbuf;encbuf;errbuf;sim,,,,,,,,

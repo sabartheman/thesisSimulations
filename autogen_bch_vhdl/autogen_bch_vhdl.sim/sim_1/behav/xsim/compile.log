@@ -1,0 +1,117 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/const.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/enc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ering
+INFO: [VRFC 10-307] analyzing entity ecount
+INFO: [VRFC 10-307] analyzing entity enc
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/dec.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dcount
+INFO: [VRFC 10-307] analyzing entity dsyn1
+INFO: [VRFC 10-307] analyzing entity dch1
+INFO: [VRFC 10-307] analyzing entity dbuf
+INFO: [VRFC 10-307] analyzing entity dec
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity encBuf
+INFO: [VRFC 10-307] analyzing entity errBuf
+INFO: [VRFC 10-307] analyzing entity comBuf
+INFO: [VRFC 10-307] analyzing entity decBuf
+INFO: [VRFC 10-307] analyzing entity sim
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity encBuf
+INFO: [VRFC 10-307] analyzing entity errBuf
+INFO: [VRFC 10-307] analyzing entity comBuf
+INFO: [VRFC 10-307] analyzing entity decBuf
+INFO: [VRFC 10-307] analyzing entity sim
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/const.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/enc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ering
+INFO: [VRFC 10-307] analyzing entity ecount
+INFO: [VRFC 10-307] analyzing entity enc
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/dec.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dcount
+INFO: [VRFC 10-307] analyzing entity dsyn1
+INFO: [VRFC 10-307] analyzing entity dch1
+INFO: [VRFC 10-307] analyzing entity dbuf
+INFO: [VRFC 10-307] analyzing entity dec
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity encBuf
+INFO: [VRFC 10-307] analyzing entity errBuf
+INFO: [VRFC 10-307] analyzing entity comBuf
+INFO: [VRFC 10-307] analyzing entity decBuf
+INFO: [VRFC 10-307] analyzing entity sim
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity encBuf
+INFO: [VRFC 10-307] analyzing entity errBuf
+INFO: [VRFC 10-307] analyzing entity comBuf
+INFO: [VRFC 10-307] analyzing entity decBuf
+INFO: [VRFC 10-307] analyzing entity sim
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BCH_VHDL_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/const.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/enc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ering'
+INFO: [VRFC 10-3107] analyzing entity 'ecount'
+INFO: [VRFC 10-3107] analyzing entity 'enc'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/dec.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dcount'
+INFO: [VRFC 10-3107] analyzing entity 'dsyn1'
+INFO: [VRFC 10-3107] analyzing entity 'dch1'
+INFO: [VRFC 10-3107] analyzing entity 'dbuf'
+INFO: [VRFC 10-3107] analyzing entity 'dec'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'encBuf'
+INFO: [VRFC 10-3107] analyzing entity 'errBuf'
+INFO: [VRFC 10-3107] analyzing entity 'comBuf'
+INFO: [VRFC 10-3107] analyzing entity 'decBuf'
+INFO: [VRFC 10-3107] analyzing entity 'sim'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCH_VHDL_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCH_VHDL_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'encBuf'
+INFO: [VRFC 10-3107] analyzing entity 'errBuf'
+INFO: [VRFC 10-3107] analyzing entity 'comBuf'
+INFO: [VRFC 10-3107] analyzing entity 'decBuf'
+INFO: [VRFC 10-3107] analyzing entity 'sim'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCH_VHDL_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'encBuf'
+INFO: [VRFC 10-3107] analyzing entity 'errBuf'
+INFO: [VRFC 10-3107] analyzing entity 'comBuf'
+INFO: [VRFC 10-3107] analyzing entity 'decBuf'
+INFO: [VRFC 10-3107] analyzing entity 'sim'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCH_VHDL_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/proj/sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'encBuf'
+INFO: [VRFC 10-3107] analyzing entity 'errBuf'
+INFO: [VRFC 10-3107] analyzing entity 'comBuf'
+INFO: [VRFC 10-3107] analyzing entity 'decBuf'
+INFO: [VRFC 10-3107] analyzing entity 'sim'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/sky/Git_repos/thesisSimulations/autogen_bch_vhdl/autogen_bch_vhdl.srcs/sources_1/new/BCH_VHDL_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCH_VHDL_tb'

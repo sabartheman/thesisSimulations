@@ -34,7 +34,7 @@
     <Option Name="DSAVendor" Val="xilinx"/>
     <Option Name="DSABoardId" Val="ac701"/>
     <Option Name="DSANumComputeUnits" Val="60"/>
-    <Option Name="WTXSimLaunchSim" Val="72"/>
+    <Option Name="WTXSimLaunchSim" Val="75"/>
     <Option Name="WTModelSimLaunchSim" Val="0"/>
     <Option Name="WTQuestaLaunchSim" Val="0"/>
     <Option Name="WTIesLaunchSim" Val="0"/>
@@ -96,6 +96,7 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb_pkg.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Hamming/codegen/Hamming_decoding/hdlsrc/Hamming_decoding_fixpt_tb_pkg.vhd"/>
           <Attr Name="ImportTime" Val="1554309613"/>
           <Attr Name="UsedIn" Val="synthesis"/>
@@ -104,6 +105,7 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/Hamming_decoding_fixpt.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Hamming/codegen/Hamming_decoding/hdlsrc/Hamming_decoding_fixpt.vhd"/>
           <Attr Name="ImportTime" Val="1554309594"/>
           <Attr Name="UsedIn" Val="synthesis"/>
@@ -112,52 +114,16 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/Hamming_decoding_fixpt_tb.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Hamming/codegen/Hamming_decoding/hdlsrc/Hamming_decoding_fixpt_tb.vhd"/>
           <Attr Name="ImportTime" Val="1554309613"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt.vhd"/>
-          <Attr Name="ImportTime" Val="1554663174"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt_pkg.vhd"/>
-          <Attr Name="ImportTime" Val="1554663174"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd"/>
-          <Attr Name="ImportTime" Val="1554663181"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt_tb.vhd"/>
-          <Attr Name="ImportTime" Val="1554663181"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/new/ldpc_tb.vhd">
-        <FileInfo>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/r.dat">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcdec/hdlsrc/r.dat"/>
           <Attr Name="ImportTime" Val="1554684631"/>
           <Attr Name="UsedIn" Val="synthesis"/>
@@ -166,46 +132,16 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/dec_out_expected.dat">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcdec/hdlsrc/dec_out_expected.dat"/>
           <Attr Name="ImportTime" Val="1554684633"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcdec_fixpt_pkg.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcdec/hdlsrc/ldpcdec_fixpt_pkg.vhd"/>
-          <Attr Name="ImportTime" Val="1554685689"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcdec/hdlsrc/ldpcdec_fixpt_tb_pkg.vhd"/>
-          <Attr Name="ImportTime" Val="1554685760"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcdec_fixpt.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcdec/hdlsrc/ldpcdec_fixpt.vhd"/>
-          <Attr Name="ImportTime" Val="1554685689"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
-      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcdec_fixpt_tb.vhd">
-        <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcdec/hdlsrc/ldpcdec_fixpt_tb.vhd"/>
-          <Attr Name="ImportTime" Val="1554685760"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcenc_fixpt_pkg.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcenc/hdlsrc/tbcenc_fixpt_pkg.vhd"/>
           <Attr Name="ImportTime" Val="1554760441"/>
           <Attr Name="UsedIn" Val="synthesis"/>
@@ -214,6 +150,7 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcenc_fixpt_tb_pkg.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcenc/hdlsrc/tbcenc_fixpt_tb_pkg.vhd"/>
           <Attr Name="ImportTime" Val="1554760807"/>
           <Attr Name="UsedIn" Val="synthesis"/>
@@ -222,6 +159,7 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcenc_fixpt.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcenc/hdlsrc/tbcenc_fixpt.vhd"/>
           <Attr Name="ImportTime" Val="1554760441"/>
           <Attr Name="UsedIn" Val="synthesis"/>
@@ -230,15 +168,116 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcenc_fixpt_tb.vhd">
         <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcenc/hdlsrc/tbcenc_fixpt_tb.vhd"/>
           <Attr Name="ImportTime" Val="1554760807"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcdec_fixpt_pkg.vhd">
+        <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcdec/hdlsrc/tbcdec_fixpt_pkg.vhd"/>
+          <Attr Name="ImportTime" Val="1554843166"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcdec_fixpt_tb_pkg.vhd">
+        <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcdec/hdlsrc/tbcdec_fixpt_tb_pkg.vhd"/>
+          <Attr Name="ImportTime" Val="1554843199"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcdec_fixpt.vhd">
+        <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcdec/hdlsrc/tbcdec_fixpt.vhd"/>
+          <Attr Name="ImportTime" Val="1554843166"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/tbcdec_fixpt_tb.vhd">
+        <FileInfo>
+          <Attr Name="UserDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Turbo_codes/codegen/tbcdec/hdlsrc/tbcdec_fixpt_tb.vhd"/>
+          <Attr Name="ImportTime" Val="1554843199"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/bf_fixpt_pkg.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/bf/hdlsrc/bf_fixpt_pkg.vhd"/>
+          <Attr Name="ImportTime" Val="1556077493"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/bf_fixpt.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/bf/hdlsrc/bf_fixpt.vhd"/>
+          <Attr Name="ImportTime" Val="1556077493"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/bf_fixpt_tb_pkg.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/bf/hdlsrc/bf_fixpt_tb_pkg.vhd"/>
+          <Attr Name="ImportTime" Val="1556077512"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/bf_fixpt_tb.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/bf/hdlsrc/bf_fixpt_tb.vhd"/>
+          <Attr Name="ImportTime" Val="1556077512"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt.vhd"/>
+          <Attr Name="ImportTime" Val="1556078235"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt_pkg.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt_pkg.vhd"/>
+          <Attr Name="ImportTime" Val="1556078235"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt_tb.vhd"/>
+          <Attr Name="ImportTime" Val="1556078259"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/MATLAB/Low_density_parity_code/codegen/ldpcenc/hdlsrc/ldpcenc_fixpt_tb_pkg.vhd"/>
+          <Attr Name="ImportTime" Val="1556078259"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
       <Config>
         <Option Name="DesignMode" Val="RTL"/>
-        <Option Name="TopModule" Val="tbcenc_fixpt_tb"/>
+        <Option Name="TopModule" Val="bf_fixpt_tb"/>
       </Config>
     </FileSet>
     <FileSet Name="constrs_1" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
@@ -251,7 +290,7 @@
       <Filter Type="Srcs"/>
       <Config>
         <Option Name="DesignMode" Val="RTL"/>
-        <Option Name="TopModule" Val="tbcenc_fixpt_tb"/>
+        <Option Name="TopModule" Val="bf_fixpt_tb"/>
         <Option Name="TopLib" Val="xil_defaultlib"/>
         <Option Name="TransportPathDelay" Val="0"/>
         <Option Name="TransportIntDelay" Val="0"/>
@@ -290,13 +329,16 @@
     </Simulator>
   </Simulators>
   <Runs Version="1" Minor="10">
-    <Run Id="synth_1" Type="Ft3:Synth" SrcSet="sources_1" Part="xc7a200tfbg676-2" ConstrsSet="constrs_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" State="current" IncludeInArchive="true">
+    <Run Id="synth_1" Type="Ft3:Synth" SrcSet="sources_1" Part="xc7a200tfbg676-2" ConstrsSet="constrs_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" State="current" Dir="$PRUNDIR/synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018">
           <Desc>Vivado Synthesis Defaults</Desc>
         </StratHandle>
-        <Step Id="synth_design"/>
+        <Step Id="synth_design">
+          <Option Id="FlattenHierarchy">1</Option>
+        </Step>
       </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
       <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2018"/>
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
     </Run>
